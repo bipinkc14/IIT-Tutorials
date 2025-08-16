@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+  <diagram name="Page-1" id="F2q6F41Jj2dMxG3hO2Zv">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-11" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ImRCz4M81pVX7fWiOCxS-1" target="ImRCz4M81pVX7fWiOCxS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-1" value="CLOCK ( Real - Time )&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ImRCz4M81pVX7fWiOCxS-2" target="ImRCz4M81pVX7fWiOCxS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-2" value="Feeding Time logic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="170" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ImRCz4M81pVX7fWiOCxS-5" target="ImRCz4M81pVX7fWiOCxS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-5" value="Motor Dispenser&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="310" width="275" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ImRCz4M81pVX7fWiOCxS-7" target="ImRCz4M81pVX7fWiOCxS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-7" value="Weight Sensor Reader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="460" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ImRCz4M81pVX7fWiOCxS-8" target="ImRCz4M81pVX7fWiOCxS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-8" value="Has food been consumed ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="630" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-10" value="Send Alert Logic to Staff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="850" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ImRCz4M81pVX7fWiOCxS-17" value="Created By:&amp;nbsp;u3309931&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&amp;nbsp; &amp;nbsp; BIPIN KC" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="590" y="860" width="290" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
